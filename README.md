@@ -1,2 +1,1 @@
-# Hello, people!
-This is my new website!
+Hi, this is Rahee :)
